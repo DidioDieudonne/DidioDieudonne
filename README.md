@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-I’m passionate about data science, geospatial analysis, and AI.  
-Currently pursuing a Master’s degree in Intelligent Systems and Multimedia, I’m looking for an internship or professional opportunity to apply my skills in Python, machine learning, and GIS.
+I’m a Data Scientist, Geospatial Data Analyst (GIS), and Cartographer with a strong interest in transforming complex spatial and non-spatial datasets into actionable insights.
+Currently completing my Master’s in Intelligent Systems and Multimedia, I specialize in Python-based data analysis, machine learning, and geospatial technologies. I’m actively seeking opportunities to apply my expertise to real-world challenges—particularly in projects at the intersection of AI, data visualization, and spatial intelligence.
 
 ---
 
