@@ -9,8 +9,8 @@
 
 ##  About Me
 
-I’m a Data Scientist, Geospatial Data Analyst (GIS), and Cartographer with a strong interest in transforming complex spatial and non-spatial datasets into actionable insights.
-Currently completing my Master’s in Intelligent Systems and Multimedia, I specialize in Python-based data analysis, machine learning, and geospatial technologies. I’m actively seeking opportunities to apply my expertise to real-world challenges—particularly in projects at the intersection of AI, data visualization, and spatial intelligence.
+Data Scientist, Geospatial Data Analyst (GIS), and Cartographer, I am completing a Master’s degree in Intelligent Systems and Multimedia and currently
+interning at the IRIT laboratory on the automation of Actor-Based Zoning (ZADA), at the intersection of AI, data visualization, and spatial intelligence.
 
 ---
 
